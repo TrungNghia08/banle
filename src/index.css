@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.border{
+    border-radius: 1px solid black;
+}
+
+.fl{
+    margin-left: 100px;
+}
+.gucci{
+    width: 300px;
+    height: 250px;
+}
+.f1{
+    padding: 20px;
+    
+}
+.f3{
+    width: 400px;
+    height: 400px;
+}
+.ad{
+    width: 1080px;
+}
